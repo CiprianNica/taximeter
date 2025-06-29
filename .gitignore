@@ -1,0 +1,38 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Archivos de test y cobertura
+*.cover
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.cache/
+nosetests.xml
+*.log
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+*.spec
+# otros archivos
+read.md
+README_1.md
